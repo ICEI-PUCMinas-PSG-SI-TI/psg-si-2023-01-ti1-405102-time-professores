@@ -1,4 +1,4 @@
-# Informações do Projeto
+# Projeto do Time de Professores
 `TÍTULO DO PROJETO`  
 
 ......  COLOQUE AQUI O SEU TEXTO ......
