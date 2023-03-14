@@ -5,7 +5,6 @@ O projeto do time dos professores tem como objetivo auxiliar os alunos no entend
 ## Alunos integrantes da equipe
 
 * Felipe A. L. Reis
-* Nome completo do aluno 2
 
 ## Professores responsáveis
 
